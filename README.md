@@ -87,9 +87,9 @@ streamlit run app.py
 
 | Model               | ROC-AUC |
 |---------------------|---------|
-| Logistic Regression | ~0.84   |
-| Random Forest       | ~0.83   |
-| XGBoost             | ~0.85   |
+| Logistic Regression | ~0.8362 |
+| Random Forest       | ~0.8211 |
+| XGBoost             | ~0.8292 |
 
 > Best model is saved automatically and used in the Streamlit app.
 
@@ -97,7 +97,7 @@ streamlit run app.py
 
 ## 📈 Results
 
-- **Best ROC-AUC:** ~0.85 (XGBoost)
+- **Best ROC-AUC:** ~0.836 (Logistic Regression)
 - **Top churn predictors:** Contract type, tenure, monthly charges, internet service
 - Customers on **month-to-month contracts** with **high monthly charges** and **short tenure** are most likely to churn
 
