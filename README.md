@@ -94,7 +94,7 @@ streamlit run app.py
 
 The interactive web app lets you input customer details and get a real-time churn probability score.
 
-![App Screenshot](screenshot.png)
+![Streamlit App](screenshots/app_screenshot.png)
 
 ---
 
