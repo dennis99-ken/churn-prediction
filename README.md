@@ -10,6 +10,19 @@ Customer churn is one of the most costly problems for subscription-based busines
 
 ---
 
+## Business Impact
+
+Customer churn directly affects recurring revenue and customer lifetime value.
+
+This solution helps businesses:
+
+- Identify customers at risk of leaving
+- Improve retention campaigns
+- Reduce revenue loss
+- Prioritize intervention efforts
+
+---
+
 ## 📊 Dataset
 
 - **Source:** [Telco Customer Churn — Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
@@ -23,7 +36,7 @@ Customer churn is one of the most costly problems for subscription-based busines
 
 ```
 churn-prediction/
-├── data/
+├── data/(not included in repository)
 │   └── telco_churn.csv        # Raw dataset (download from Kaggle)
 ├── models/
 │   ├── best_model.pkl         # Saved best-performing model
