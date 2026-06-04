@@ -38,8 +38,8 @@ This solution helps businesses:
 churn-prediction/
 ├── data/(not included in repository)
 │   └── telco_churn.csv        # Raw dataset (download from Kaggle)
-├── models/
-│   ├── best_model.pkl         # Saved best-performing model
+├── models/                    # Generated after running train.py (not in repo)
+│   ├── best_model.pkl         # Created by: python src/train.py # Saved best-performing model
 │   └── scaler.pkl             # Saved StandardScaler
 ├── src/
 │   ├── eda.py                 # Step 1: Exploratory Data Analysis
