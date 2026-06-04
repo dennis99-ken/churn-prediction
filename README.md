@@ -43,7 +43,7 @@ churn-prediction/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/churn-prediction.git
+git clone https://github.com/dennis99-ken/churn-prediction.git
 cd churn-prediction
 ```
 
@@ -108,4 +108,4 @@ The interactive web app lets you input customer details and get a real-time chur
 
 ## 📬 Contact
 
-Made by [Your Name](https://github.com/YOUR_USERNAME) · Feel free to ⭐ the repo if you found it helpful!
+Made by Dennis Mariadass· Feel free to ⭐ the repo if you found it helpful!
